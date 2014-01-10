@@ -27,3 +27,4 @@ $email = <<<EOT
 EOT;
 
 echo $email;
+?>
